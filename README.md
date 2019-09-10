@@ -1,4 +1,4 @@
-# jupyterlab-google-drive
+# jupyter
 
 [![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-google-drive.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-google-drive)
 
